@@ -178,7 +178,6 @@ A web-based management application designed to simplify laundry order tracking, 
 
 - 📜 IBM Full Stack Development
 - 📜 IBM Cloud Course
-- 📜 AWS Cloud Practitioner Badge
 
 ---
 
